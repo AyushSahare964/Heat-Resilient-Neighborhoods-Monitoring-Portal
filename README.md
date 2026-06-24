@@ -276,5 +276,5 @@ This project is developed for a government-aligned urban resilience initiative. 
 <div align="center">
   <sub>© Maharashtra Urban Climate Cell · Heat-Resilient Neighborhoods Mission</sub><br/>
   <sub>Powered by <strong>ESP32 · ThingSpeak · React</strong></sub><br/><br/>
-  <sub>Developed with ❤️ by <strong>Ayush Sahare &nbsp;·&nbsp; Samyak Malame &nbsp;·&nbsp; Samruddhi Shinde</strong></sub>
+  <sub>Developed by <strong>Ayush Sahare &nbsp;·&nbsp; Samyak Malame &nbsp;·&nbsp; Samruddhi Shinde</strong></sub>
 </div>
