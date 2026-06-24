@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="32" fill="hsl(26,95%,52%)"/>
+  <!-- Thermometer body -->
+  <rect x="28" y="10" width="8" height="28" rx="4" fill="white" opacity="0.95"/>
+  <!-- Thermometer bulb -->
+  <circle cx="32" cy="44" r="8" fill="hsl(0,78%,48%)"/>
+  <!-- Mercury fill in stem -->
+  <rect x="30" y="28" width="4" height="16" rx="2" fill="hsl(0,78%,48%)"/>
+  <!-- WiFi arc top -->
+  <path d="M20 18 Q32 10 44 18" stroke="white" stroke-width="2.5" stroke-linecap="round" fill="none" opacity="0.8"/>
+  <path d="M23 22 Q32 16 41 22" stroke="white" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.6"/>
+</svg>
