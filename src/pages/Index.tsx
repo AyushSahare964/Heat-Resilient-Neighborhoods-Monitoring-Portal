@@ -204,6 +204,17 @@ const Index = () => {
           <span>© {new Date().getFullYear()} {t.footer}</span>
           <span className="opacity-70">Powered by ESP32 · ThingSpeak · React</span>
         </div>
+        {/* Team Watermark */}
+        <div className="team-watermark">
+          <span className="team-watermark-label">Developed by</span>
+          <span className="team-watermark-names">
+            Ayush Sahare
+            <span className="team-watermark-dot">·</span>
+            Samyak Malame
+            <span className="team-watermark-dot">·</span>
+            Samruddhi Shinde
+          </span>
+        </div>
       </footer>
 
       {/* Sensor Config Dialog */}

@@ -243,6 +243,18 @@ npm run build
 
 ---
 
+## 👨‍💻 Team
+
+Developed by the following contributors as part of an IoT & Urban Resilience academic project:
+
+| Name | Role |
+|------|------|
+| **Ayush Sahare** | Full-Stack Development, IoT Integration, ThingSpeak Setup |
+| **Samyak Malame** | Hardware (ESP32 + DHT22), Firmware, Circuit Design |
+| **Samruddhi Shinde** | UI/UX Design, Data Visualization, Documentation |
+
+---
+
 ## 🤝 Contributing
 
 This project is part of the **Maharashtra Urban Climate Resilience Mission**. To contribute:
@@ -263,5 +275,6 @@ This project is developed for a government-aligned urban resilience initiative. 
 
 <div align="center">
   <sub>© Maharashtra Urban Climate Cell · Heat-Resilient Neighborhoods Mission</sub><br/>
-  <sub>Powered by <strong>ESP32 · ThingSpeak · React</strong></sub>
+  <sub>Powered by <strong>ESP32 · ThingSpeak · React</strong></sub><br/><br/>
+  <sub>Developed with ❤️ by <strong>Ayush Sahare &nbsp;·&nbsp; Samyak Malame &nbsp;·&nbsp; Samruddhi Shinde</strong></sub>
 </div>

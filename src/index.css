@@ -180,3 +180,43 @@
   font-family: 'Mukta', 'Inter', sans-serif;
   border-radius: var(--radius);
 }
+
+/* ── Team Watermark ─────────────────────────────────────────────────────── */
+.team-watermark {
+  border-top: 1px solid hsl(var(--border));
+  background: linear-gradient(90deg, hsl(219 90% 28% / 0.04), hsl(26 95% 52% / 0.06), hsl(142 65% 35% / 0.04));
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.03em;
+}
+
+.team-watermark-label {
+  color: hsl(var(--muted-foreground));
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.team-watermark-names {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem;
+  font-weight: 600;
+  background: linear-gradient(90deg, hsl(219 90% 32%), hsl(26 95% 48%), hsl(142 65% 35%));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.team-watermark-dot {
+  -webkit-text-fill-color: hsl(var(--muted-foreground));
+  color: hsl(var(--muted-foreground));
+  opacity: 0.5;
+  font-weight: 400;
+}
